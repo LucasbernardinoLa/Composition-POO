@@ -1,0 +1,16 @@
+C:\Users\lucas\source\repos\AulaComp\AulaComp\bin\Debug\net5.0\AulaComp.exe
+C:\Users\lucas\source\repos\AulaComp\AulaComp\bin\Debug\net5.0\AulaComp.deps.json
+C:\Users\lucas\source\repos\AulaComp\AulaComp\bin\Debug\net5.0\AulaComp.runtimeconfig.json
+C:\Users\lucas\source\repos\AulaComp\AulaComp\bin\Debug\net5.0\AulaComp.runtimeconfig.dev.json
+C:\Users\lucas\source\repos\AulaComp\AulaComp\bin\Debug\net5.0\AulaComp.dll
+C:\Users\lucas\source\repos\AulaComp\AulaComp\bin\Debug\net5.0\ref\AulaComp.dll
+C:\Users\lucas\source\repos\AulaComp\AulaComp\bin\Debug\net5.0\AulaComp.pdb
+C:\Users\lucas\source\repos\AulaComp\AulaComp\obj\Debug\net5.0\AulaComp.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\AulaComp\AulaComp\obj\Debug\net5.0\AulaComp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\AulaComp\AulaComp\obj\Debug\net5.0\AulaComp.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\AulaComp\AulaComp\obj\Debug\net5.0\AulaComp.AssemblyInfo.cs
+C:\Users\lucas\source\repos\AulaComp\AulaComp\obj\Debug\net5.0\AulaComp.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\AulaComp\AulaComp\obj\Debug\net5.0\AulaComp.dll
+C:\Users\lucas\source\repos\AulaComp\AulaComp\obj\Debug\net5.0\ref\AulaComp.dll
+C:\Users\lucas\source\repos\AulaComp\AulaComp\obj\Debug\net5.0\AulaComp.pdb
+C:\Users\lucas\source\repos\AulaComp\AulaComp\obj\Debug\net5.0\AulaComp.genruntimeconfig.cache
