@@ -58,7 +58,7 @@ namespace ExercComposition.Entities
             sb.AppendLine("Order items: ");
             foreach (OrderItem item in Items)
             {
-                sb.AppendLine($"{item.Product.Name}, ${item.Price}, Quantity: {item.Quantity}, ${item.SubTotal()}");
+                sb.AppendLine($"{item.Product.Name},  Product price: ${item.Price}, Quantity: {item.Quantity} // ${item.SubTotal()}");
             }
             sb.Append($"Total price: ");
             sb.AppendLine(Total().ToString("F2", CultureInfo.InvariantCulture));
